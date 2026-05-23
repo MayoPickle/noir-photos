@@ -1,0 +1,10 @@
+{
+  "name": "Noir Photos",
+  "short_name": "Noir",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#111111",
+  "description": "End-to-end encrypted photo library"
+}
+

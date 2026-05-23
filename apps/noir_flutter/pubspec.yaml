@@ -1,0 +1,32 @@
+name: noir_flutter
+description: End-to-end encrypted photo library client for Noir Photos.
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ">=3.5.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  bip39: ^1.0.6
+  connectivity_plus: ^6.1.0
+  crypto: ^3.0.6
+  file_picker: ^8.1.6
+  flutter_secure_storage: ^9.2.2
+  http: ^1.2.2
+  http_parser: ^4.0.2
+  path_provider: ^2.1.5
+  photo_manager: ^3.6.3
+  provider: ^6.1.2
+  sodium: ^4.0.2+1
+  workmanager: ^0.5.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
